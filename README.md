@@ -1,6 +1,6 @@
 <span align="center">
   
- <img src="https://img.icons8.com/fluency/48/000000/cloud-development.png"/> <img src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/giphy-1.gif"/> <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-coding-interface-kiranshastry-lineal-color-kiranshastry.png"/> </span>
+ <img src="https://img.icons8.com/fluency/48/000000/cloud-development.png"/> <img src="https://1.bp.blogspot.com/-pMSv56-4yrI/X8A5LdEliKI/AAAAAAAACEU/wsMMSaFsSXEwM-4mGYxnvKY573nnUs1lwCLcBGAsYHQ/s970/TECNOGIF3.gif"/> <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-coding-interface-kiranshastry-lineal-color-kiranshastry.png"/> </span>
 </span>
 
 ☀️ Óla, eu sou Tiziano Vera - Hola, soy Tiziano Vera 👍
