@@ -1,4 +1,4 @@
-https://www.enter.co/wp-content/uploads/2020/12/Programacion-codigo-768x432.jpg
+<img src="https://www.enter.co/wp-content/uploads/2020/12/Programacion-codigo-768x432.jpg"/>
 <img src="https://img.icons8.com/fluency/48/000000/cloud-development.png"/>
 ☀️ Óla, eu sou Tiziano Vera - Hola, soy Tiziano Vera 👍
 
