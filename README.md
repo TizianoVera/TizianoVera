@@ -3,4 +3,4 @@
 - 🧑‍🎓 Hoje eu estudo para front-end pela TOTI! / Hoy estudio para front-end en TOTI!
 - Interessado em aprender novos idiomas e aperfeiçoar os já conhecidos! / Interesado en el aprendizaje de nuevos lenguajes y perfeccionar los ya conocidos!
 
-<img src="https://icon-icons.com/es/icono/archivo-tipo-de-html/130541"/>
+<img src="https://icon-icons.com/es/icono/archivo-tipo-de-html/130541"></img>
