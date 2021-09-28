@@ -9,5 +9,5 @@
 Interessado em aprender novos idiomas e aperfeiçoar os já conhecidos! / Interesado en el aprendizaje de nuevos lenguajes y perfeccionar los ya conocidos!
 
 
-<img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/50/000000/css3.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png"/> <img src="https://img.icons8.com/ultraviolet/50/000000/react--v2.png"/>
+<img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/50/000000/css3.png"/> <img src="https://img.icons8.com/ios-filled/50/FFFFFF/javascript-logo.png"/> <img src="https://img.icons8.com/ultraviolet/50/000000/react--v2.png"/>
 
