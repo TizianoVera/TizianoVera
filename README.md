@@ -11,4 +11,3 @@ Interessado em aprender novos idiomas e aperfeiçoar os já conhecidos! / Intere
 
 <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/50/000000/css3.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png"/> <img src="https://img.icons8.com/ultraviolet/50/000000/react--v2.png"/>
 
-<img src="https://cdn.dribbble.com/users/521912/screenshots/13911181/media/2053a15d64873ea11f9e6cc5cb26f227.gif"/>
